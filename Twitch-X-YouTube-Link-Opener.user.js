@@ -9,6 +9,8 @@
 // @exclude     /^https://(clips|dashboard|www)\.twitch\.tv/(directory|settings|subs|subscriptions|videos|user|payments|wallet)/*/
 // @grant        GM_setClipboard
 // @grant        GM_openInTab
+// @downloadURL  https://github.com/borkfomb/userscripts/raw/main/Twitch-X-YouTube-Link-Opener.user.js
+// @updateURL    https://github.com/borkfomb/userscripts/raw/main/Twitch-X-YouTube-Link-Opener.user.js
 // ==/UserScript==
 //
 // This method is less convenient than link replacement but ensures zero overhead, and user interaction (for safety). sugoiTea
